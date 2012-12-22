@@ -1,4 +1,4 @@
-# Instructions
+#Instructions
 
 How to setup an AWS machine that runs OpenVPN.  Generally started from http://holgr.com/blog/2009/06/setting-up-openvpn-on-amazons-ec2/
 
