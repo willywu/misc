@@ -1,0 +1,1660 @@
+
+<!DOCTYPE html>
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head><meta charset="iso-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script>var a=navigator.userAgent,b=window.location,c=document.cookie,d=a.match(/iPad/i)||a.match(/Android/i)&&!a.match(/Mobile/i)||a.match(/RIM Tablet/i)||a.match(/Silk/i),e=a.match(/Mobile/i)||a.match(/Mini/i),f=b.href.match(/src=mobile/i),g=-1<c.indexOf("iphone_redirect=false"),h=-1<c.indexOf("iphone_redirect=true");if(d){if(document.documentElement.className+=" tablet ",(!a.match(/iPad/i)||h)&&!g)b.href="http://m.espn.go.com/general/fantasy/story?storyId=9877857&src=desktop"}else e&&(!g&&!f)&&(b.href="http://m.espn.go.com/general/fantasy/story?storyId=9877857&src=desktop");</script>
+<title>Fantasy basketball 2013-14 mock draft 2 - Fantasy Basketball - ESPN</title>
+<meta name="google-site-verification" content="xuj1ODRluWa0frM-BjIr_aSHoUC7HB5C1MgmYAM_GkA" />
+<meta name="msvalidate.01" content="B1FEB7C682C46C8FCDA3130F3D18AC28" />
+<meta name="googlebot" content="noodp" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Tom Carpenter recaps the second fantasy basketball mock draft of the 2013-14 season." />
+<meta name="keywords" content="fantasy nba, fantasy basketball, nba, draft kit, mock draft, 2013-14 nba season" />
+<meta name="news_keywords" content="fantasy nba, fantasy basketball, nba, draft kit, mock draft, 2013-14 nba season" />
+<meta name="syndication-source" content="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2" />
+<meta property="og:title" content="2013-14 fantasy hoops mock draft 2" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2" />
+<meta property="og:description" content="Tom Carpenter recaps the second fantasy basketball mock draft of the 2013-14 season." />
+<meta name="twitter:site" content="espn"><meta property="og:image" content="http://a.espncdn.com/i/espn/espn_logos/espn_red.png" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://a.espncdn.com/i/espn/espn_logos/espn_red.png">
+<meta name="twitter:title" content="2013-14 fantasy hoops mock draft 2">
+<meta name="twitter:description" content="Tom Carpenter recaps the second fantasy basketball mock draft of the 2013-14 season.">
+<meta property="og:site_name" content="ESPN.com">
+<meta property="fb:app_id" content="116656161708917">
+<link rel="canonical" href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2" />
+
+		<script>var _sf_startpt=(new Date()).getTime();</script>
+<link rel="search" type="application/opensearchdescription+xml" href="http://a.espncdn.com/search/opensearch.xml" title="ESPN Search" />
+<link rel="stylesheet" href="http://a.espncdn.com/combiner/c/201302251456?css=global_reset.r1.css,base.r236.css,modules.r455.css,global_header.r42.css,modules/global_nav.r53.css,modules/insider_enhanced.r1.css,modules/mem/mem.r9.css,modules/mem/mem_espn360.r6.css,modules/mem/skirmish.r6.css,modules/twin.r1.css,modules/facebook/button.r2.css,universal_overlay/universal_overlay.css,universal_overlay/media_overlay.css,universal_overlay/video_overlay.css,universal_overlay/photo_overlay.css,universal_overlay/dyk_overlay.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="http://a.espncdn.com/combiner/c/201303290924?css=sprites/teamlogos.r18.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="http://g.espncdn.com/lm/static/css/popPlayerCard" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="http://a.espncdn.com/prod/styles/legacy.min.200811061403.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="http://a.espncdn.com/combiner/c?v=201308011131&css=modules/playerpopup.r2.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="http://a.espncdn.com/combiner/c?v=201108152006&css=modules/videoplayer12.r1.css" type="text/css" media="screen" charset="utf-8" />
+<style>
+body.nba { background-image: url(http://games-ak.espn.go.com/s/fbalm/10/images/shell/bg.jpg) !important; background-repeat: repeat-x; }
+body.nba .bg-elements { background: transparent url(http://games-ak.espn.go.com/s/fbalm/10/images/shell/bgHead.jpg) 50% 0 no-repeat !important;}
+</style>
+<script src="http://a.espncdn.com/combiner/c?js=jquery-1.7.1.js,plugins/json2.r3.js,plugins/teacrypt.js,plugins/jquery.metadata.js,plugins/jquery.bgiframe.r3.js,plugins/jquery.easing.1.3.js,plugins/jquery.hoverIntent.js,plugins/jquery.jcarousel.0.2.9.js,plugins/jquery.tinysort.r4.js,plugins/jquery.pubsub.r5.js,ui/1.8.16/jquery.ui.core.js,ui/1.8.16/jquery.ui.widget.js,ui/1.8.16/jquery.ui.tabs.js,ui/1.8.16/jquery.ui.accordion.js,plugins/ba-debug-0.4.js,espn.l10n.r12.js,swfobject/2.2/swfobject.js,flashObjWrapper.r7.js,plugins/jquery.colorbox.1.3.14.js,plugins/jquery.ba-postmessage.js,espn.core.duo.r55.js,stub.search.r9.js,espn.nav.mega.r35.js,espn.storage.r6.js,espn.p13n.r16.js,espn.geo.r1.js,espn.video.r81.js,analytics/chartbeat/video/strategy_comprehensive.r1.js,registration/staticLogin.r11.js,espn.universal.overlay.r16.js,insider/espn.insider.201212131.js,espn.espn360.stub.r9.js,espn.myHeadlines.stub.r15.js,espn.myfaves.stub.r3.js,tsscoreboard.20090612.js,espn.gallery.0908a.js,espn.f8.noauth.r3.js,espn.socialmediamod.r6.js"></script>
+<script src="http://a.espncdn.com/prod/scripts/espn.loader.200901201835.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+ESPN.include([
+	'http://g.espncdn.com/lm/static/js/popPlayerCard',
+	'http://widgets.outbrain.com/outbrain.js'
+]);
+</script>
+<script>espn.core.navVersion = 'a';</script>
+<script type="text/javascript" src="http://a.espncdn.com/prod/scripts/mbox.20.r2.js"></script>
+<script>var ad_site="espn.us.com.fba",ad_zone="story",ad_kvps="pgn=nbadk2k14_mockdraft2;pgtyp=story;sp=fba;objid=9877857;col=carpenter_tom;",ad_swid="",ad_counter=1,ad_ord=Math.floor(9999999999*Math.random()),ad_seg="",ad_mnr=-1<document.cookie.indexOf("grif=1")?"t":"f",ad_ref="other",ref=document.referrer,refsMap={"facebook.com":"facebook","twitter.com|t.co":"twitter","plus.url.google.com|plus.google.com":"googleplus","google.com":"google","bing.com":"bing","yahoo.com":"yahoo","espn.go.com":"espn"},refKey;for(refKey in refsMap)ref.match(refKey)&&(ad_ref=refsMap[refKey]);
+ad_kvps=ad_kvps+"ref="+ad_ref+";mnr="+ad_mnr+";";ad_swid=jQuery.cookie("SWID");"function"===typeof espn.core.ad_segments&&(ad_seg=espn.core.ad_segments(),null!=ad_seg&&""!=ad_seg&&(ad_kvps+=ad_seg));var ad_u="";null!=ad_swid&&""!=ad_swid&&(ad_u="swid="+ad_swid+";");</script>
+</head>
+<body class="nba" >
+<div class="mboxDefault"><link rel="stylesheet" charset="utf-8" media="screen" href="http://a.espncdn.com/prod/styles/modules/hideGravity.css" type="text/css" /></div><script>mboxCreate('ESPN_global');</script><!--[if IE 6]><div class="ie ie6"><![endif]-->
+<!--[if IE 7]><div class="ie ie7"><![endif]-->
+<!--[if IE 8]><div class="ie ie8"><![endif]-->
+<!-- begin bg-elements -->
+<div class="bg-elements">
+<!-- begin header -->
+<div id="header" class="container">
+<!-- begin top-bar -->
+<div class="top-bar">
+<!-- begin uni login -->
+<script type="text/javascript">
+var returnURL = document.location.href;
+var anCV = "";
+var myEspnText = {'welcometext':'Welcome','register':'Register','signin':'Sign In','signout':'Sign Out','heliumdown':'Login Temporarily Unavailable','connectedfacebook':'Connected to Facebook','connectfacebook':'Connect with Facebook','activateinsider':'Activate Insider'};
+</script>
+<form id="form-memberarea">
+<input type="hidden" name="language" id="language" value="en"/>
+<input type="hidden" name="affiliateName" id="memberAreaAffiliateName" value="espn"/>
+<input type="hidden" name="regFormId" id="regFormId" value="espn"/>
+</form>
+<div class="signin" id="signin"></div>
+<script>espn.memberservices.welcome();</script>
+<div class="nav-edition editions">
+<label>EDITIONS:</label>
+<ul class="main">
+	<li class="e-usa active"><a href="http://espn.go.com/" name="&amp;lpos=editionsnav&amp;lid=usa">USA</a></li>
+	<li class="e-deportes"><a href="http://espndeportes.espn.go.com/" name="&amp;lpos=editionsnav&amp;lid=deportes" class="{langPref:'spanish'}">ESPA&#x00D1;OL</a></li>
+	<li class="last dropdown">
+	<ul class="">
+	<li class="selected">More</li>
+	<li><a href="http://www.espn.com.au" name="&amp;lpos=editionsnav&amp;lid=australia">Australia</a></li>
+	<li><a href="http://www.espn.com.br" name="&amp;lpos=editionsnav&amp;lid=brazil">Brazil</a></li>
+	<li><a href="http://www.espn.co.uk/" name="&amp;lpos=editionsnav&amp;lid=uk">United Kingdom</a></li>
+	</ul>
+	</li>
+</ul>
+</div>
+
+<div class="nav-edition">
+<label>CITIES:</label>
+<ul class="main">
+	<li class="e-boston"><a href="http://espn.go.com/boston/" name="&amp;lpos=citynav&amp;lid=boston">BOSTON</a></li>
+	<li class="e-chicago"><a href="http://espn.go.com/chicago/" name="&amp;lpos=citynav&amp;lid=chicago">CHICAGO</a></li>
+	<li class="e-dallas"><a href="http://espn.go.com/dallas/" name="&amp;lpos=citynav&amp;lid=dallas">DALLAS</a></li>
+	<li class="e-losangeles"><a href="http://espn.go.com/los-angeles/" name="&amp;lpos=citynav&amp;lid=losangeles">LOS ANGELES</a></li>
+	<li class="last e-newyork"><a href="http://espn.go.com/new-york/" name="&amp;lpos=citynav&amp;lid=newyork">NEW YORK</a></li>
+</ul>
+</div>
+</div>
+<!-- end top-bar -->
+<!-- begin espn-logo -->
+<div class="espn-logo">
+<div class="h1"><a href="http://espn.go.com/" name="&lpos=sitenavdefault&lid=sitenav_main-logo" class="espn">ESPN</a> <a href="http://games.espn.go.com/frontpage/basketball"><img src="http://games-ak.espn.go.com/s/frontpage10/bgHead.gif"/></a></div></div>
+<!-- end espn-logo -->
+<!-- begin ad -->
+<span class="presby"><!--espn.us.com.fba sitezone-->
+<script>if("undefined"!=typeof ad_kvps&&"undefined"!=typeof ad_u&&"undefined"!=typeof ad_counter&&"undefined"!=typeof ad_ord){if("undefined"==typeof ad_site||"undefined"==typeof ad_zone)var ad_site="espn.us.com.fba",ad_zone="story";var ad_finalString="http://ad.Doubleclick.net/adj/"+ad_site+"/"+ad_zone+";"+ad_kvps+"pos=SponsoredByLogoHeader;"+ad_u+"sz=150x45,1x1;tile="+ad_counter+";ord="+ad_ord;document.write('<div data-cb-ad-id="SponsoredByLogoHeader" data-cb-dfp-id="'+ad_kvps+'sz=150x45,1x1"><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};</script>
+<noscript><a href="http://ad.Doubleclick.net/jump/espn.us.com.fba/story;pgn=nbadk2k14_mockdraft2;pgtyp=story;sp=fba;objid=9877857;col=carpenter_tom;sz=150x45,1x1;" target="_blank"><img src="http://ad.Doubleclick.net/ad/espn.us.com.fba/story;pgn=nbadk2k14_mockdraft2;pgtyp=story;sp=fba;objid=9877857;col=carpenter_tom;sz=150x45,1x1;" border="0" alt=""></a></noscript>
+</span>
+<!-- end ad -->
+<div id="shop"><a class="shop-btn" href="http://www.espnshop.com/source/bm-espncom-hpshopbutton" name="&lpos=sitenavdefault&lid=sitenav_shopbutton">Shop</a></div><style>.ie6 #searchBox, .ie6 #searchBox div { display: inline; } </style><!-- begin search -->
+<div id="nav-main-search">
+<form id="searchBox" name="searchBox" action="http://search.espn.go.com/results" method="get" accept-charset="utf-8" style="color: #999999;">
+<div class="clearfix">
+<input autocomplete="off" class="text" type="text" placeholder="Search" name="searchString" id="searchString" />
+<input type="hidden" name="page" id="page" value="null" />
+<input type="hidden" name="fromForm" value="true" />
+<input class="submit" type="submit" value="" />
+</div>
+</form>
+</div>
+<!-- end search -->
+</div>
+<!-- end header -->
+<!--espn.us.com.fba sitezone-->
+<script>if("undefined"!=typeof ad_kvps&&"undefined"!=typeof ad_u&&"undefined"!=typeof ad_counter&&"undefined"!=typeof ad_ord){if("undefined"==typeof ad_site||"undefined"==typeof ad_zone)var ad_site="espn.us.com.fba",ad_zone="story";var ad_finalString="http://ad.Doubleclick.net/adj/"+ad_site+"/"+ad_zone+";"+ad_kvps+"pos=Background_Skin;"+ad_u+"sz=1280x946,200x800,1x1;tile="+ad_counter+";ord="+ad_ord;document.write('<div data-cb-ad-id="Background_Skin" data-cb-dfp-id="'+ad_kvps+'sz=1280x946,200x800,1x1"><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};</script>
+<noscript><a href="http://ad.Doubleclick.net/jump/espn.us.com.fba/story;pgn=nbadk2k14_mockdraft2;pgtyp=story;sp=fba;objid=9877857;col=carpenter_tom;sz=1280x946,200x800,1x1;" target="_blank"><img src="http://ad.Doubleclick.net/ad/espn.us.com.fba/story;pgn=nbadk2k14_mockdraft2;pgtyp=story;sp=fba;objid=9877857;col=carpenter_tom;sz=1280x946,200x800,1x1;" border="0" alt=""></a></noscript>
+<!-- begin subheader -->
+<div id="subheader">
+<!-- begin content -->
+<div id="content-wrapper">
+<div id="ad-top" class="container">
+<!-- begin Banner ad -->
+<div class="span-6 ad banner top"><div class="ad-center"><div class="ad-wrapper"><!--espn.us.com.fba sitezone-->
+<script>if("undefined"!=typeof ad_kvps&&"undefined"!=typeof ad_u&&"undefined"!=typeof ad_counter&&"undefined"!=typeof ad_ord){if("undefined"==typeof ad_site||"undefined"==typeof ad_zone)var ad_site="espn.us.com.fba",ad_zone="story";var ad_finalString="http://ad.Doubleclick.net/adj/"+ad_site+"/"+ad_zone+";"+ad_kvps+"pos=Banner;"+ad_u+"sz=728x90,970x66,924x50,1x1;tile="+ad_counter+";ord="+ad_ord;document.write('<div data-cb-ad-id="Banner" data-cb-dfp-id="'+ad_kvps+'sz=728x90,970x66,924x50,1x1"><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};</script>
+<noscript><a href="http://ad.Doubleclick.net/jump/espn.us.com.fba/story;pgn=nbadk2k14_mockdraft2;pgtyp=story;sp=fba;objid=9877857;col=carpenter_tom;sz=728x90,970x66,924x50,1x1;" target="_blank"><img src="http://ad.Doubleclick.net/ad/espn.us.com.fba/story;pgn=nbadk2k14_mockdraft2;pgtyp=story;sp=fba;objid=9877857;col=carpenter_tom;sz=728x90,970x66,924x50,1x1;" border="0" alt=""></a></noscript>
+</div></div></div>
+<!-- end Banner ad -->
+</div>
+<div id="content" class="container">
+<div id="fb-root"></div><!--[if lte IE 7]><link rel="stylesheet" charset="utf-8" media="screen" href="http://a.espncdn.com/combiner/c?css=modules/browser-alert.r7.css" type="text/css" /><div class="span-6" id="browser-alert-wrapper" style="display:none;"><div class="mod-container mod-no-header-footer browser-alert"><div class="mod-content"><div class="gradient-container"><h1><span>Your Web Browser</span> is no longer supported</h1><p>To experience everything that ESPN.com has to offer, we recommend that you upgrade to a newer version of your web browser. Click the upgrade button to the right or <a href="http://espn.go.com/espn/news/story?id=5630562">learn more</a>.</p><ul><li><a class="btn-upgrade" href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Upgrade</a></li><li><a class="btn-faq" href="http://espn.go.com/espn/news/story?id=5630562">FAQs</a></li></ul></div></div></div></div><script>(function(b){setTimeout(function(){var a=b("#browser-alert-wrapper");if(espn.cookie.get("browseralert")!="true"){b('<a class="btn-close" href="#">Close</a>').bind("click",function(){a.hide();espn.cookie.set("browseralert","true",30);return false}).appendTo(a.find(".gradient-container"));a.show();espn.cookie.set("browseralert","true")}},100)})(jQuery);</script><![endif]--><div class="mboxDefault"></div><script>mboxCreate('InsiderReg-Empty');</script><div class="span-4">
+<div class="bg-opaque pad-16 article">
+<!-- begin mod-article-title -->
+<div class="mod-article-title">
+<div class="headline">
+<h1 class="h2">'13-14 Fantasy hoops mock draft&nbsp;2</h1>
+</div>
+<div class="subhead"><div class="date"><span>Updated:</span> October 25, 2013, 4:20 PM ET</div>
+<cite class="source">
+By <a href="http://search.espn.go.com/tom-carpenter/">
+Tom Carpenter</a> | ESPN.com</cite>
+</div>
+</div>
+<div id="page-actions-top"><ul class="mod-page-actions"><li class="social facebook-recommend"><a href="https://www.facebook.com/sharer.php?u=http%3A%2f%2fespn.go.com%2ffantasy%2fbasketball%2fstory%2f_%2fpage%2fnbadk2k14_mockdraft2%2ffantasy%2dbasketball%2d2013%2d14%2dmock%2ddraft%2d2&t=2013%2d14+fantasy+hoops+mock+draft+2" target="_new" rel="nofollow"><span class="sprite-page-actions facebook"></span><span class="label">Recommend</span></a><a class="count" href="https://www.facebook.com/sharer.php?u=http%3A%2f%2fespn.go.com%2ffantasy%2fbasketball%2fstory%2f_%2fpage%2fnbadk2k14_mockdraft2%2ffantasy%2dbasketball%2d2013%2d14%2dmock%2ddraft%2d2&t=2013%2d14+fantasy+hoops+mock+draft+2" target="_new" rel="nofollow">0</a></li>
+<li class="social twitter-tweet"><a href="http://twitter.com/intent/tweet?url=http%3A%2f%2fespn.go.com%2ffantasy%2fbasketball%2fstory%2f_%2fpage%2fnbadk2k14_mockdraft2%2ffantasy%2dbasketball%2d2013%2d14%2dmock%2ddraft%2d2&text=2013%2d14+fantasy+hoops+mock+draft+2&via=espnfantasy" target="_new" rel="nofollow"><span class="sprite-page-actions twitter"></span><span class="label">Tweet</span></a><a class="count" href="http://twitter.com/intent/tweet?url=http%3A%2f%2fespn.go.com%2ffantasy%2fbasketball%2fstory%2f_%2fpage%2fnbadk2k14_mockdraft2%2ffantasy%2dbasketball%2d2013%2d14%2dmock%2ddraft%2d2&text=2013%2d14+fantasy+hoops+mock+draft+2&via=espnfantasy" target="_new" rel="nofollow">0</a></li>
+<li class="social fb-comments"><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2#comments" rel="nofollow"><span class="sprite-page-actions comments"></span><span class="label">Comments</span></a><a class="count" href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2#comments" rel="nofollow">0</a></li><li class="espn-email"><a id="email-9877857" class="email" href="http://sendtofriend.espn.go.com/sendtofriend/SendToFriend?URL=http%3A%2f%2fespn.go.com%2ffantasy%2fbasketball%2fstory%2f_%2fpage%2fnbadk2k14_mockdraft2%2ffantasy%2dbasketball%2d2013%2d14%2dmock%2ddraft%2d2&title=2013%2d14+fantasy+hoops+mock+draft+2&id=9877857" target="_new" rel="nofollow"><span class="sprite-page-actions email"></span><span class="label">Email</span></a></li>
+<li><a id="print-9877857" class="print" href="http://espn.go.com/espn/print?id=9877857&type=story" rel="nofollow"><span class="sprite-page-actions print"></span><span class="label">Print</span></a></li>
+</ul></div><!-- end mod-article-title -->
+<!-- begin story body -->
+<div style="overflow:hidden;"><p>The 2013-14 campaign tips off Tuesday evening, which means that the vast bulk of fantasy drafts will take place in the next handful of days. Taking part in and examining mock drafts is an important part of getting a handle on which players are going when in different formats. With that in mind, we got our gang of fantasy hoops experts together again for another mock draft.</p>
+<p>This one is a 13-round, 10-team, head-to-head league using eight categories (points, 3s, rebounds, assists, steals, blocks, FG% and FT%). We use 10 starters and keep a three-man bench. While we may dub this a mock, we decided to play it out for real, which gives a little more authenticity to our picks.</p>
+<p>Let's check out the results and the thinking behind some of our selections. (<a href="http://games.espn.go.com/fba/tools/draftrecap?leagueId=128207&mode=1" target="_new">Click here</a> for a full rundown of picks by team.)</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 1</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>1</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3202/kevin-durant')">Kevin Durant</a>, OKC SF</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>2</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1966/lebron-james')">LeBron James</a>, Mia SF</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>3</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3992/james-harden')">James Harden</a>, Hou SG</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>4</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2779/chris-paul')">Chris Paul</a>, LAC PG</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>5</td>
+<td>James Quintong</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3975/stephen-curry')">Stephen Curry</a>, GS PG</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>6</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6442/kyrie-irving')">Kyrie Irving</a>, Cle PG</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>7</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4251/paul-george')">Paul George</a>, Ind SF</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>8</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3456/derrick-rose')">Derrick Rose</a>, Chi PG</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>9</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3449/kevin-love')">Kevin Love</a>, Min PF</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>10</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4237/john-wall')">John Wall</a>, Wsh PG</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>Things would have been a little more interesting had I not somehow snagged the top pick in our <a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft1/fantasy-basketball-2013-14-mock-draft-1" target="_new">previous mock</a> and this one, but I can't complain. I think you can flip a coin between <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1966/lebron-james')">LeBron James</a> and <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3202/kevin-durant')">Kevin Durant</a>, but I'll still give the edge to Durant because of his free-throw advantage. No surprises in the rest of the first round, though I'm glad to see <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3456/derrick-rose')">Derrick Rose</a> getting more love as the season nears.</p>
+<p><i>My rosters are always chock full of the young and talented, so I love the Wall/Unibrow duo you got on the turn. What are your expectations for this pair of No. 1 overall NBA draft picks, and were you comfortable taking them this early?</i></p>
+<p><b>Neil Tardy:</b> "It wasn't entirely planned. I'd targeted Derrick Rose and <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6583/anthony-davis')">Anthony Davis</a> for picks 10 and 11 -- until I realized that Brian McKitish owned the eighth pick. Having read Mac for years, I had no doubt he would select Rose. There were safer alternatives obviously, but I wanted a point guard and a big, and I wanted upside. Going into last season, I felt that Wall would take a step forward, and he showed it after the break (20.7 points, 7.8 assists, 1.5 steals and 81.0 percent foul shooting on 7.1 attempts). As for Davis, I think he's ready to make the move coming out of the gate in 2013-14. It might be silly to throw out his preseason numbers (22.0 points, 6.3 boards, 2.0 blocks, 1.8 steals and stellar percentages), but I honestly believe that's in range for him -- only with even more rebounds -- once the games count."</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 2</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>11</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6583/anthony-davis')">Anthony Davis</a>, Nor C</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>12</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3439/serge-ibaka')">Serge Ibaka</a>, OKC PF</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>13</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3206/marc-gasol')">Marc Gasol</a>, Mem C</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>14</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2798/deron-williams')">Deron Williams</a>, Bkn PG</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>15</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1975/carmelo-anthony')">Carmelo Anthony</a>, NY SF</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>16</td>
+<td>James Quintong</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2983/lamarcus-aldridge')">LaMarcus Aldridge</a>, Por PF</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>17</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3416/nicolas-batum')">Nicolas Batum</a>, Por SF</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>18</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1987/dwyane-wade')">Dwyane Wade</a>, Mia SG</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>19</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/609/dirk-nowitzki')">Dirk Nowitzki</a>, Dal PF</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>20</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2384/dwight-howard')">Dwight Howard</a>, Hou C</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>I will basically never own D12 in a roto system. That's because you'll have to be at or near the top of your league in every category in order to win any competitive league, and having <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2384/dwight-howard')">Dwight Howard</a> basically ensures that you will not do that in free throws. Going head-to-head in categories is completely different, though. I can punt free throws and still beat my opponents in enough categories to win. As an added bonus, we aren't using turnovers, so Howard is even stronger. I expect to see the Magic version of Howard in Houston and wouldn't hesitate to take him in the first round of H2H category leagues.</p>
+<p><i>A fully healthy D-Will would have gone in the first round, but he's still not right. Are you OK with the risk of taking him at 14?</i></p>
+<p><b>Josh Whitling:</b> "I'm not overly concerned about the ankle -- Williams thinks he'll be ready for the season opener -- and even if he misses the first couple of weeks, I was pretty sure I was going to grab <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6443/reggie-jackson')">Reggie Jackson</a> with my final pick (which I did), and he'll be an adequate fill-in if needed. I think Deron is in for a spectacular fantasy season, even if his scoring diminishes, because I think his assists and efficiency will rise. His field goal percentage rose last season, primarily because he went from taking 4.5 shots per game between 16-23 feet the previous campaign, to 2.8 per game last season. I see that trend in efficiency continuing now that he'll have to create his own shot even less, and can focus upon driving and finishing at the rim, driving and kicking to accomplished teammates, and spotting up for open looks. I also have a gut feeling that being under Jason Kidd's tutelage will increase his steals. If Williams gives me 18 points, 10 assists, two 3s and more than a steal per game while shooting better than 45 percent from the floor and 85 percent from the stripe, that's a cornerstone point guard I feel great about building my team around."</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 3</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>21</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4011/ricky-rubio')">Ricky Rubio</a>, Min PG</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>22</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4000/ty-lawson')">Ty Lawson</a>, Den PG</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>23</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2389/al-jefferson')">Al Jefferson</a>, Cha C</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>24</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3213/al-horford')">Al Horford</a>, Atl C</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>25</td>
+<td>James Quintong</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2411/josh-smith')">Josh Smith</a>, Det SF</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>26</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2772/david-lee')">David Lee</a>, GS PF</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>27</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4265/larry-sanders')">Larry Sanders</a>, Mil C</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>28</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6606/damian-lillard')">Damian Lillard</a>, Por PG</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>29</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1015/tony-parker')">Tony Parker</a>, SA PG</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>30</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3224/joakim-noah')">Joakim Noah</a>, Chi C</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>I have long had a fantasy infatuation with ballers who can go out and get me freakishly large stats in any particular category, so it's no surprise that I love Rubio's potential in assists and steals. Plus, with Durant and Howard already in the fold, they can cover up his FG% woes. After three picks, I have high-end production in every statistical category, except FT%, which I will just punt, if needed.</p>
+<p><i><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4000/ty-lawson')">Ty Lawson</a> remains an underrated fantasy option. Does his value change for you in H2H versus roto?</i></p>
+<p><b>Mike Huang:</b> "I think I value Lawson more in a roto league. With year-end accumulation, Lawson's bouts of inconsistency can hurt me less than in a head-to-head league. But let me be clear, it's not that big of a difference. Lawson's main hurdle will be to completely embrace his role as the <a href="http://espn.go.com/nba/team/_/name/den/denver-nuggets')">Denver Nuggets</a>' playmaker and No. 1 or 2 scoring option. Especially without <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2386/andre-iguodala')">Andre Iguodala</a> and <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3428/danilo-gallinari')">Danilo Gallinari</a>."</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 4</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>31</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2751/monta-ellis')">Monta Ellis</a>, Dal PG</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>32</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6475/klay-thompson')">Klay Thompson</a>, GS SG</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>33</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3195/mike-conley')">Mike Conley</a>, Mem PG</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>34</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3995/jrue-holiday')">Jrue Holiday</a>, Nor PG</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>35</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3989/blake-griffin')">Blake Griffin</a>, LAC PF</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>36</td>
+<td>James Quintong</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3448/brook-lopez')">Brook Lopez</a>, Bkn C</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>37</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6479/kemba-walker')">Kemba Walker</a>, Cha PG</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>38</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/215/tim-duncan')">Tim Duncan</a>, SA PF</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>39</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1977/chris-bosh')">Chris Bosh</a>, Mia C</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>40</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/996/pau-gasol')">Pau Gasol</a>, LAL PF</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>I listed <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/996/pau-gasol')">Pau Gasol</a> as one of my <a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_sleepersbusts/eric-bledsoe-sleeper-tyreke-evans-bust" target="_new">prime sleepers for this season</a>, because I'll be shocked if he doesn't far exceed draft spots such as this. So long as he is on the court, he's going to rack up a ton of stats. I was surprised he lasted past guys with smaller offensive roles such as&nbsp;<a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3448/brook-lopez')">Brook Lopez</a>,&nbsp;<a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1977/chris-bosh')">Chris Bosh</a>&nbsp;and even <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/215/tim-duncan')">Tim Duncan</a>, who is great, but also considerably older than Gasol.</p>
+<p><i><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3989/blake-griffin')">Blake Griffin</a> has been a nightmare at the free throw line and an underachiever in hustle stats, but getting him at No. 35 seems like a nice score. Does the H2H format change your thinking on his value? Do you think Doc Rivers will draw out a better fantasy game from him?</i></p>
+<p><b>Amin Elhassan:</b> "I felt Griffin's positives (FG%, rebounding) would outweigh any negative impact in terms of FT%, although he has been steadily improving in that area, and might crack 70 percent this season. Doc Rivers' top assistant, Alvin Gentry, brings a highly successful offensive playbook with him, but the Clippers' improved perimeter shooting will be an even bigger factor in opening the court for Griffin to be even more devastating offensively."</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 5</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>41</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3997/brandon-jennings')">Brandon Jennings</a>, Det PG</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>42</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4258/demarcus-cousins')">DeMarcus Cousins</a>, Sac C</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>43</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3436/roy-hibbert')">Roy Hibbert</a>, Ind C</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>44</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6478/nikola-vucevic')">Nikola Vucevic</a>, Orl C</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>45</td>
+<td>James Quintong</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/110/kobe-bryant')">Kobe Bryant</a>, LAL SG</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>46</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3005/rudy-gay')">Rudy Gay</a>, Tor SF</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>47</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4260/greg-monroe')">Greg Monroe</a>, Det PF</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>48</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4257/derrick-favors')">Derrick Favors</a>, Uta PF</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>49</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6450/kawhi-leonard')">Kawhi Leonard</a>, SA SF</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>50</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3244/thaddeus-young')">Thaddeus Young</a>, Phi SF</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>The beauty of setting up a well-rounded team with my first three picks is that it gave me versatility going forward. I didn't have to reach for a particular stat or position. Instead, I just aimed to take the best players available. Having added the big-man stats of Gasol, I paired him up with <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3997/brandon-jennings')">Brandon Jennings</a>. I believe we will see a new Jennings with the Pistons -- one who is committed to taking good shots and racking up bigger assist totals.</p>
+<p><i>The <a href="http://espn.go.com/nba/team/_/name/utah/utah-jazz')">Utah Jazz</a> frontcourt has been a source of frustration for years in Fantasyland, but they finally thinned it out this offseason, which means that <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4257/derrick-favors')">Derrick Favors</a> is poised to break out. How high do you think his fantasy value will go this season?</i></p>
+<p><b>Brian McKitish:</b> "There's a lot to love about Favors this season. Not only is he incredibly talented, he's also in a near-perfect situation to produce big-time fantasy numbers. After averaging 9.4 points, 7.1 boards and 1.7 blocks in just 23.2 minutes per game last season, he could realistically post 14 points, 10-11 rebounds and two blocks per game in the extremely thin Jazz frontcourt."</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 6</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>51</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3015/paul-millsap')">Paul Millsap</a>, Atl PF</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>52</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3468/russell-westbrook')">Russell Westbrook</a>, OKC PG</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>53</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6580/bradley-beal')">Bradley Beal</a>, Wsh SG</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>54</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3412/ryan-anderson')">Ryan Anderson</a>, Nor PF</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>55</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4238/eric-bledsoe')">Eric Bledsoe</a>, Pho PG</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>56</td>
+<td>James Quintong</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/662/paul-pierce')">Paul Pierce</a>, Bkn SF</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>57</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6477/jonas-valanciunas')">Jonas Valanciunas</a>, Tor C</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>58</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4015/jeff-teague')">Jeff Teague</a>, Atl PG</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>59</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6585/andre-drummond')">Andre Drummond</a>, Det C</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>60</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3450/oj-mayo')">O.J. Mayo</a>, Mil SG</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>I would have snagged <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6585/andre-drummond')">Andre Drummond</a> had he fallen to me, but I was content with <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3450/oj-mayo')">O.J. Mayo</a>. He should have little trouble scoring in the upper teens and banging down at least a couple of 3s each game. Not sure I can call him a sleeper, but he definitely appears to be undervalued a bit in most drafts I've seen.</p>
+<p><i>You took Westy at No. 52, which is right on par with his current ADP of about 50th. Do you feel good about taking him in that spot?</i></p>
+<p><b>Ross Marrinson:</b> "<a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3468/russell-westbrook')">Russell Westbrook</a> at No. 52 is tremendous value, I think. He looks to be ahead of schedule to return from injury, but even if he misses those four to six weeks, or roughly 20 games, I'd rather have Westbrook's points, assists, rebounds and steals for 60-ish games than a full season from just about anyone drafted behind him. He'll average 20-plus ppg, six-plus apg, five-plus rpg and a steal per game. There aren't a lot of guys with that type of multicategory output in the top ten, let alone at No. 52. His FG% and 3PT% are lower than I'd like, unfortunately, but I feel as though I more than make up for those deficiencies with <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3449/kevin-love')">Kevin Love</a>, <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1015/tony-parker')">Tony Parker</a> and <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6475/klay-thompson')">Klay Thompson</a>."</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 7</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>61</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3452/javale-mcgee')">JaVale McGee</a>, Den C</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>62</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3983/tyreke-evans')">Tyreke Evans</a>, Nor SF</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>63</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2767/ersan-ilyasova')">Ersan Ilyasova</a>, Mil PF</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>64</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2527963/victor-oladipo')">Victor Oladipo</a>, Orl SG</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>65</td>
+<td>James Quintong</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2806/jose-calderon')">Jose Calderon</a>, Dal PG</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>66</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3453/nikola-pekovic')">Nikola Pekovic</a>, Min C</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>67</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2386/andre-iguodala')">Andre Iguodala</a>, GS SF</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>68</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3209/jeff-green')">Jeff Green</a>, Bos SF</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>69</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3423/goran-dragic')">Goran Dragic</a>, Pho PG</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>70</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3438/george-hill')">George Hill</a>, Ind PG</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>Speaking of guys who can churn out freakish stats; <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3452/javale-mcgee')">JaVale McGee</a> is a blockmeister extraordinaire. Pairing him up with D12 should put me right in the mix for blocks every week. If I end up with too many blocks, he'll make for a great trade chip to a team in need. He also reinforces my FG% to counter my chucking guards, and that might carry even more weight if Nuggets coach Brian Shaw follows through on his plan to increase McGee's role on offense.</p>
+<p><i>It doesn't seem to matter with which team <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2806/jose-calderon')">Jose Calderon</a> is balling or to whom he is dishing passes; the guy racks up a ton of dimes. Do you expect that to continue in his new digs in Big D?</i></p>
+<p><b>James Quintong:</b> "I drafted Calderon for all the assists he can dish out, thanks in part to having some big-time scorers in <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/609/dirk-nowitzki')">Dirk Nowitzki</a> and <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2751/monta-ellis')">Monta Ellis</a>."</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 8</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>71</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6440/tobias-harris')">Tobias Harris</a>, Orl PF</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>72</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1017/zach-randolph')">Zach Randolph</a>, Mem PF</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>73</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6433/kenneth-faried')">Kenneth Faried</a>, Den PF</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>74</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2177/david-west')">David West</a>, Ind PF</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>75</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4249/gordon-hayward')">Gordon Hayward</a>, Uta SG</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>76</td>
+<td>James Quintong</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4299/jeremy-lin')">Jeremy Lin</a>, Hou PG</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>77</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6466/chandler-parsons')">Chandler Parsons</a>, Hou SF</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>78</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/592/steve-nash')">Steve Nash</a>, LAL PG</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>79</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4239/evan-turner')">Evan Turner</a>, Phi SG</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>80</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2769/amir-johnson')">Amir Johnson</a>, Tor PF</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>I was actually hoping that one of <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6440/tobias-harris')">Tobias Harris</a>, <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6433/kenneth-faried')">Kenneth Faried</a>, <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4249/gordon-hayward')">Gordon Hayward</a> or <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6466/chandler-parsons')">Chandler Parsons</a> would drop to me. Each of them carries a load of upside this season. However, I was content with adding <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2769/amir-johnson')">Amir Johnson</a>, who brings with him steady stats and no negatives. He's basically <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/261/kevin-garnett')">Kevin Garnett</a>-lite, without the age and health concerns. That makes him a perfect option to round out my starting lineup.</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 9</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>81</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3988/danny-green')">Danny Green</a>, SA SG</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>82</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2429/luol-deng')">Luol Deng</a>, Chi SF</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>83</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4032/wesley-matthews')">Wesley Matthews</a>, Por SG</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>84</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2991473/anthony-bennett')">Anthony Bennett</a>, Cle PF</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>85</td>
+<td>James Quintong</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/261/kevin-garnett')">Kevin Garnett</a>, Bkn PF</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>86</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3012/kyle-lowry')">Kyle Lowry</a>, Tor PG</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>87</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3431/eric-gordon')">Eric Gordon</a>, Nor SG</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>88</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6447/enes-kanter')">Enes Kanter</a>, Uta C</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>89</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6430/jimmy-butler')">Jimmy Butler</a>, Chi SG</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>90</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/984/tyson-chandler')">Tyson Chandler</a>, NY C</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>Sticking with my theme of players who can bring big numbers, <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3988/danny-green')">Danny Green</a> will help me shore up my ability to compete in 3s each week. If I get lucky, his scoring might even creep into the low teens. This seems like the right area of the draft to take <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3431/eric-gordon')">Eric Gordon</a>, as Whitling did. Despite his upside, I'm still shying away from the talented guard, though. We play odds in fantasy hoops, and the odds say that even though the risk-reward ratio is right in the ninth round, he still won't come through. I hope he does get over the hump, though, because he has a fun game to watch.</p>
+<p><i>It's been tough to get a read on No. 1 overall NBA draft pick <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2991473/anthony-bennett')">Anthony Bennett</a>. People debate whether he was worthy of being the top pick, he's coming off shoulder surgery and his weight and conditioning need work. What are your expectations for him as a rook?</i></p>
+<p><b>John Cregan:</b> "This was my All-Upside draft (after <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2779/chris-paul')">Chris Paul</a> in the first). For the first two to four weeks, I have absolutely no expectations. There's a 50 percent chance I drop Bennett after the first week of the season (in a non-keeper league). At that stage in the draft, it's a low-risk, medium reward situation. I was just looking for some upside late, and all it will take is one big game to start the rush to pick him up. But for the first half of the season, <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6474/tristan-thompson')">Tristan Thompson</a> is a safer bet."</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 10</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>91</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2394/kevin-martin')">Kevin Martin</a>, Min SG</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>92</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2747/andrew-bogut')">Andrew Bogut</a>, GS C</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>93</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2444/jr-smith')">J.R. Smith</a>, NY SG</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>94</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3194/wilson-chandler')">Wilson Chandler</a>, Den SF</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>95</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3243/nick-young')">Nick Young</a>, LAL SG</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>96</td>
+<td>James Quintong</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2579258/cody-zeller')">Cody Zeller</a>, Cha PF</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>97</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2753/raymond-felton')">Raymond Felton</a>, NY PG</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>98</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1703/carlos-boozer')">Carlos Boozer</a>, Chi PF</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>99</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3026/rajon-rondo')">Rajon Rondo</a>, Bos PG</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>100</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3978/demar-derozan')">DeMar DeRozan</a>, Tor SG</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>At first glance, DeRozan doesn't seem to fit the profile of the players I said I like to draft, since he doesn't crush it in any category besides scoring. In fact, I'm prone to mocking people for even owning him in fantasy, because a guard who doesn't contribute 3s, steals and assists is borderline useless. However, with the 100th overall pick, DeRozan does contribute a special stat: scoring. Securing a potential 18-plus PPG scorer this late works in this H2H format by giving me one more player who is churning out points.</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 11</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>101</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3964/patrick-beverley')">Patrick Beverley</a>, Hou PG</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>102</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2439/jameer-nelson')">Jameer Nelson</a>, Orl PG</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>103</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1007/joe-johnson')">Joe Johnson</a>, Bkn SG</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>104</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6591/maurice-harkless')">Maurice Harkless</a>, Orl SF</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>105</td>
+<td>James Quintong</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6472/isaiah-thomas')">Isaiah Thomas</a>, Sac PG</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>106</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3442/deandre-jordan')">DeAndre Jordan</a>, LAC C</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>107</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2419/anderson-varejao')">Anderson Varejao</a>, Cle C</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>108</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1026/gerald-wallace')">Gerald Wallace</a>, Bos SF</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>109</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6448/brandon-knight')">Brandon Knight</a>, Mil PG</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>110</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/4291/greivis-vasquez')">Greivis Vasquez</a>, Sac PG</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>At this point, I'm just looking for a lotto-ticket type pick. I like Beverley's game, and I think he has a legitimate shot at securing a major role in the <a href="http://espn.go.com/nba/team/_/name/hou/houston-rockets')">Houston Rockets</a> offense. If he flops, I'll just cut him and move on the hottest player on the waiver wire. He's a quality late-round flier.</p>
+<p><i><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1007/joe-johnson')">Joe Johnson</a> lost a lot of fantasy love in his first season with the <a href="http://espn.go.com/nba/team/_/name/bkn/brooklyn-nets')">Brooklyn Nets</a>, and even more with the addition of Pierce and KG. Do you think he could have a renaissance campaign in a <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/9/ray-allen')">Ray Allen</a>-like role this season?</i></p>
+<p><b>Eric Karabell:</b> "By round 11, I was simply looking for more scoring and 3-pointers, and Johnson should be able to provide something similar to last season. Then again, since I'll take the under on <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/662/paul-pierce')">Paul Pierce</a> and Kevin Garnett combining for 140 games, Johnson seems a bit underrated to me."</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 12</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>111</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3447/robin-lopez')">Robin Lopez</a>, Por C</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>112</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6474/tristan-thompson')">Tristan Thompson</a>, Cle PF</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>113</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2758/marcin-gortat')">Marcin Gortat</a>, Pho C</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>114</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6628/dion-waiters')">Dion Waiters</a>, Cle SG</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>115</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2760/danny-granger')">Danny Granger</a>, Ind SG</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>116</td>
+<td>James Quintong</td>
+<td><a href="http://espn.go.com/nba/player/_/id/1713/nen%EA-hilario">Nene Hilario</a>, Wsh PF</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>117</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2578213/ben-mclemore')">Ben McLemore</a>, Sac SG</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>118</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3211/spencer-hawes')">Spencer Hawes</a>, Phi C</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>119</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2596108/michael-carter-williams')">Michael Carter-Williams</a>, Phi PG</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>120</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2987/andrea-bargnani')">Andrea Bargnani</a>, NY PF</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>I think the likelihood that <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2987/andrea-bargnani')">Andrea Bargnani</a> makes a significant impact this season with the <a href="http://espn.go.com/nba/team/_/name/ny/new-york-knicks')">New York Knicks</a> is slim. But it could happen, and that's why he's worth a pick in the late rounds. I wouldn't draft him before this spot, and I won't hesitate to dump him to waivers if he stumbles early on.</p>
+<div class="mod-container mod-no-footer content-box mod-inline full mod-no-header-footer">
+<div class="mod-content">
+<h4>ROUND 13</h4>
+<table>
+<thead>
+<tr>
+<th>Pick</th>
+<th>Overall</th>
+<th>By</th>
+<th>Player</th>
+</tr>
+</thead>
+<tbody>
+<tr class="last">
+<td><b>1 </b></td>
+<td>121</td>
+<td>Tom Carpenter</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6578/harrison-barnes')">Harrison Barnes</a>, GS SF</td>
+</tr>
+<tr class="last">
+<td><b>2 </b></td>
+<td>122</td>
+<td>Mike Huang</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2748/andrew-bynum')">Andrew Bynum</a>, Cle C</td>
+</tr>
+<tr class="last">
+<td><b>3 </b></td>
+<td>123</td>
+<td>Eric Karabell</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2579260/trey-burke')">Trey Burke</a>, Uta PG</td>
+</tr>
+<tr class="last">
+<td><b>4 </b></td>
+<td>124</td>
+<td>John Cregan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1999/carlos-delfino')">Carlos Delfino</a>, Mil SF</td>
+</tr>
+<tr class="last">
+<td><b>5 </b></td>
+<td>125</td>
+<td>James Quintong</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/434/andrei-kirilenko')">Andrei Kirilenko</a>, Bkn SF</td>
+</tr>
+<tr class="last">
+<td><b>6 </b></td>
+<td>126</td>
+<td>Amin Elhassan</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3414/omer-asik')">Omer Asik</a>, Hou C</td>
+</tr>
+<tr class="last">
+<td><b>7 </b></td>
+<td>127</td>
+<td>Josh Whitling</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6443/reggie-jackson')">Reggie Jackson</a>, OKC PG</td>
+</tr>
+<tr class="last">
+<td><b>8 </b></td>
+<td>128</td>
+<td>Brian McKitish</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/1982/chris-kaman')">Chris Kaman</a>, LAL C</td>
+</tr>
+<tr class="last">
+<td><b>9 </b></td>
+<td>129</td>
+<td>Ross Marrinson</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/3233/tiago-splitter')">Tiago Splitter</a>, SA PF</td>
+</tr>
+<tr class="last">
+<td><b>10 </b></td>
+<td>130</td>
+<td>Neil Tardy</td>
+<td><a href="javascript:newWin('http://espn.go.com/nba/player/_/id/2011/kyle-korver')">Kyle Korver</a>, Atl SG</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>If <a href="javascript:newWin('http://espn.go.com/nba/player/_/id/6578/harrison-barnes')">Harrison Barnes</a> had a starting role locked up and was sure to get a lot of touches, he'd be on everyone's breakout list. Instead, he may come off the bench and will have several options ahead of him on offense. On the other hand, we all saw in the playoffs what he brings to the hardwood, so I have him stashed on most of my rosters. One injury or trade, and Barnes could blow up.</p></p><p></p><p>
+</p><ul id="page-actions-bottom" class="mod-page-actions"><li class="social facebook-recommend"><a href="https://www.facebook.com/sharer.php?u=http%3A%2f%2fespn.go.com%2ffantasy%2fbasketball%2fstory%2f_%2fpage%2fnbadk2k14_mockdraft2%2ffantasy%2dbasketball%2d2013%2d14%2dmock%2ddraft%2d2&t=2013%2d14+fantasy+hoops+mock+draft+2" target="_new" rel="nofollow"><span class="sprite-page-actions facebook"></span><span class="label">Recommend</span></a><a class="count" href="https://www.facebook.com/sharer.php?u=http%3A%2f%2fespn.go.com%2ffantasy%2fbasketball%2fstory%2f_%2fpage%2fnbadk2k14_mockdraft2%2ffantasy%2dbasketball%2d2013%2d14%2dmock%2ddraft%2d2&t=2013%2d14+fantasy+hoops+mock+draft+2" target="_new" rel="nofollow">0</a></li>
+<li class="social twitter-tweet"><a href="http://twitter.com/intent/tweet?url=http%3A%2f%2fespn.go.com%2ffantasy%2fbasketball%2fstory%2f_%2fpage%2fnbadk2k14_mockdraft2%2ffantasy%2dbasketball%2d2013%2d14%2dmock%2ddraft%2d2&text=2013%2d14+fantasy+hoops+mock+draft+2&via=espnfantasy" target="_new" rel="nofollow"><span class="sprite-page-actions twitter"></span><span class="label">Tweet</span></a><a class="count" href="http://twitter.com/intent/tweet?url=http%3A%2f%2fespn.go.com%2ffantasy%2fbasketball%2fstory%2f_%2fpage%2fnbadk2k14_mockdraft2%2ffantasy%2dbasketball%2d2013%2d14%2dmock%2ddraft%2d2&text=2013%2d14+fantasy+hoops+mock+draft+2&via=espnfantasy" target="_new" rel="nofollow">0</a></li>
+<li class="social fb-comments"><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2#comments" rel="nofollow"><span class="sprite-page-actions comments"></span><span class="label">Comments</span></a><a class="count" href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2#comments" rel="nofollow">0</a></li><li class="espn-email"><a id="email-9877857" class="email" href="http://sendtofriend.espn.go.com/sendtofriend/SendToFriend?URL=http%3A%2f%2fespn.go.com%2ffantasy%2fbasketball%2fstory%2f_%2fpage%2fnbadk2k14_mockdraft2%2ffantasy%2dbasketball%2d2013%2d14%2dmock%2ddraft%2d2&title=2013%2d14+fantasy+hoops+mock+draft+2&id=9877857" target="_new" rel="nofollow"><span class="sprite-page-actions email"></span><span class="label">Email</span></a></li>
+<li><a id="print-9877857" class="print" href="http://espn.go.com/espn/print?id=9877857&type=story" rel="nofollow"><span class="sprite-page-actions print"></span><span class="label">Print</span></a></li>
+<li><a href="http://insider.espn.go.com/insider/promo/offer?addata=insdr_footer_sub" target="_new"><span class="sprite-page-actions" style="background-position: 0 15px"><img alt="Insider" src="http://a.espncdn.com/icons/in_15.png"></span><span class="label">Subscribe</span></a></li>
+</ul><script>jQuery.getScriptCache('http://a.espncdn.com/combiner/c/69?js=jquery.sharetools.r14.js', function() {jQuery('#page-actions-top, #page-actions-bottom').sharetools('http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2');});</script><div class="mod-author-bio" style="overflow:visible;"><div class="author"><a href="http://search.espn.go.com/tom-carpenter/"><img class="floatleft" src="http://a.espncdn.com/combiner/i?img=%2fi%2fcolumnists%2fcarpenter_tom_m.jpg&w=35&h=48"></a><h4><a href="http://search.espn.go.com/tom-carpenter/">Tom Carpenter</a></h4>Fantasy and Insider<ul class="author-actions" style="overflow:visible;"><li style="line-height: 20px;" class="twitter-follow"><a href="http://twitter.com/intent/user?screen_name=@AtomicHarpua"><span class="sprite-page-actions-12 twitter" style="margin: 4px 4px 4px 0;"></span>Follow</a></li><li style="line-height: 20px;"><a href="http://search.espn.go.com/tom-carpenter/">Archive</a></li></ul></div><div style="color: #555555; font-size: 10px; line-height: 13px; width: 50%; float: left;">Tom Carpenter is a fantasy basketball and football analyst, co-host of the Fantasy Focus Basketball podcast, and an NBA, NFL and NHL analyst for Insider and Rumor Central.</div><div class="clear"></div></div></div>
+<!-- end story body -->
+</div>
+<div class="bg-opaque mod-outbrain mod-no-border">
+<div class="mod-content">
+<div class="col-left">
+<h4 class="first">SPONSORED HEADLINES</h4>
+<div class="OUTBRAIN" data-src="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2" data-widget-id="AR_1" data-ob-template="espn" ></div></div>
+<div class="col-right">
+<h4 class="first">FANTASY TOP HEADLINES</h4>
+<ul>
+<li><a href="http://espn.go.com/fantasy/football/story/_/page/hardcount131025/daniel-thomas-lamar-miller-battling-dolphins-backfield-lesean-mccoy-benefits-michael-vick-center" name="&amp;lpos=story_mh&amp;lid=Hard Count: What to">Hard Count: What to make of Dolphins' backfield?</a></li>
+<li><a href="http://espn.go.com/fantasy/football/story/_/page/TMR131024/matthew-berry-players-loves-hates-week-8-fantasy-football-rankings" name="&amp;lpos=story_mh&amp;lid=Matthew Berry's Lov">Matthew Berry's Love/Hate for Week 8</a></li>
+<li><a href="http://espn.go.com/fantasy/football/story/_/page/13ranksWeek8QB/fantasy-football-week-8-quarterback-rankings" name="&amp;lpos=story_mh&amp;lid=Fantasy Football We">Fantasy Football Week 8 QB rankings</a></li>
+<li><a href="http://insider.espn.go.com/blog/eric-karabell-football/post?id=1486" name="&amp;lpos=story_mh&amp;lid=Week 8 flex ranks:">Week 8 flex ranks: Very depth-challenged</a></li>
+</ul>
+<h4>MOST SENT STORIES ON ESPN.COM</h4>
+<ul>
+<li><a href="http://espn.go.com/nfl/story/_/id/9875758/nfl-end-official-helmet-deal-riddell-2013-14-season" name="&amp;lpos=story_ms&amp;lid=NFL ending official">NFL ending official helmet deal with Riddell</a></li>
+<li><a href="http://espn.go.com/nba/preview2013/story/_/id/9869481/victor-oladipo-path-orlando-magic" name="&amp;lpos=story_ms&amp;lid=Gutierrez: Oladipos">Gutierrez: Oladipo's Magic road</a></li>
+<li><a href="http://espn.go.com/college-football/story/_/id/9874018/texas-longhorns-qb-case-mccoy-found-confidence-most-unique-place" name="&amp;lpos=story_ms&amp;lid=Olson: McCoys moxie">Olson: McCoy's moxie irrational, infectious</a></li>
+<li><a href="http://espn.go.com/college-football/story/_/id/9863903/excerpt-king-sports-gregg-easterbrook" name="&amp;lpos=story_ms&amp;lid=Frank Beamers Virgi">Frank Beamer's Virginia Tech Hokies were exemplary</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="bg-opaque pad-16 mod-conversations"><div id="comments" class="mod-content" style="padding: 0"><h3 class="mod-header"><span style="font-size:16px">Comments</span><div class="clear"></div></h3><p style="margin: 10px 0 0; font-size: 10px; color: #777;">Use a <a href="https://www.facebook.com/r.php" rel="nofollow">Facebook account</a> to add a comment, subject to Facebook's <a href="https://www.facebook.com/policies/" rel="nofollow">Terms of Service</a> and <a href="https://www.facebook.com/about/privacy/" rel="nofollow">Privacy Policy</a>. Your Facebook name, photo & other personal information you make public on Facebook will appear with your comment, and may be used on ESPN's media platforms. <a href="http://espn.go.com/community/story/_/id/8756098/espn-facebook-comments-faq">Learn more</a>.</p><br /><div class="fb-comments" data-href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2" data-num-posts="5" data-width="582" ></div></div></div><script type="text/javascript">
+	(function($) {
+		espn.f8.init();
+		$(document).ready(function () {
+			(function checkCommentCount() {
+				var commentCount = $('.fb-comments .count').first().html(),
+					cancel = 0;
+				if ((commentCount !== '' && commentCount !== '0') || cancel > 10) {
+					if (commentCount == '0' || commentCount == '') {
+						$('#comments-on-story').hide();
+					} else {
+						$('#fb-comment-count').html(commentCount);
+					}
+					plural = 'comment' + ((commentCount == '1') ? '' : 's');
+					$('.comment-text').html(plural);
+				} else {
+					cancel++;
+					setTimeout(checkCommentCount, 200);
+				}
+			})();
+		})
+	})(jQuery);
+</script></div>
+<div id="noContent" style="display:none;"></div><!-- begin column 2 -->
+<div class="span-2 last">
+<style>.mod-package ul.bulletlinks li { white-space: nowrap; }</style><!-- begin package module -->
+<div class="mod-container mod-no-footer mod-package" id="mod_packagemodule">
+<div class="mod-header">
+<h4>FANTASY BASKETBALL 2013-14</h4>
+</div>
+<div class="mod-content mod-open">
+<div class="gradient-container">
+<p><img style="display:block; margin-left:auto; margin-right:auto; float:none;" alt="NBA Preview  131011 [203x114]" src="http://a.espncdn.com/photo/2013/1011/fan_nba_d1_203x114.jpg"><p>Sign up and play for free!  Use a our live draft lobbies, join a league or create one with your own custom settings. <a href="http://games.espn.go.com/fba/welcome">Play for Free &#187;</a></p><ul class="bulletlinks" style="padding:5px 0 0 !important;"><li><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_ranksTop200/fantasy-basketball-rankings-top-200-2013-2014-nba-season">Fantasy Hoops Rankings: Top 200</a>&nbsp;</li><li><a href="http://games.espn.go.com/fba/tools/projections?display=alt">2013-14 Projections and Profiles</a>&nbsp;</li><li><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_lovehate/al-jefferson-jeff-green-pau-gasol-loves-dwyane-wade-dwight-howard-hates">McKitish: Love/Hate list for 2013-14</a>&nbsp;</li><li><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_sleepersbusts/eric-bledsoe-sleeper-tyreke-evans-bust">Fantasy basketball sleepers and busts</a>&nbsp;</li><li><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2">2013-14 fantasy hoops mock draft 2</a>&nbsp;</li><li><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft1/fantasy-basketball-2013-14-mock-draft-1">2013-14 fantasy hoops mock draft 1</a>&nbsp;</li><li><a href="http://insider.espn.go.com/fantasy/basketball/story/_/id/9791005/fantasy-basketball-2013-insider-draft-cheat-sheet">NBA Insider fantasy draft cheat sheet</a>&nbsp;<img src="http://a.espncdn.com/icons/in.gif" alt="Insider" /></li><li><a href="http://g.espncdn.com/s/fbadraftkit/14/NBADK2K14_CS_standard.pdf?addata=2014=fbadft_chtsht_standard_xxx">2013-14 Standard League Cheat Sheet</a>&nbsp;</li><li><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_offseasonmoves/paul-millsap-eric-bledsoe-see-values-rise-deals-josh-smith-oj-mayo-see-values-drop">Tardy: Who gained, lost from offseason deals?</a>&nbsp;</li><li><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_rookies/what-fantasy-value-rookies-victor-oladipo-cody-zeller-michael-carter-williams-anthony-bennett-others">Cregan: Fantasy value of 2013-14 rookies</a>&nbsp;</li><li><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_blueprint/blueprint-fantasy-basketball-success-involves-point-guards-power-forwards">McKitish: Fantasy Basketball Blueprint</a>&nbsp;</li></ul></div>
+</div>
+</div>
+<!-- end package module -->
+<!-- begin InContent -->
+<div class="ad-box" id="AdContainer"><!--espn.us.com.fba sitezone-->
+<script>if("undefined"!=typeof ad_kvps&&"undefined"!=typeof ad_u&&"undefined"!=typeof ad_counter&&"undefined"!=typeof ad_ord){if("undefined"==typeof ad_site||"undefined"==typeof ad_zone)var ad_site="espn.us.com.fba",ad_zone="story";var ad_finalString="http://ad.Doubleclick.net/adj/"+ad_site+"/"+ad_zone+";"+ad_kvps+"pos=InContent;"+ad_u+"dcopt=ist;sz=300x600,300x250,1x1;tile="+ad_counter+";ord="+ad_ord;document.write('<div data-cb-ad-id="InContent" data-cb-dfp-id="'+ad_kvps+'sz=300x600,300x250,1x1"><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};</script>
+<noscript><a href="http://ad.Doubleclick.net/jump/espn.us.com.fba/story;pgn=nbadk2k14_mockdraft2;pgtyp=story;sp=fba;objid=9877857;col=carpenter_tom;sz=300x600,300x250,1x1;" target="_blank"><img src="http://ad.Doubleclick.net/ad/espn.us.com.fba/story;pgn=nbadk2k14_mockdraft2;pgtyp=story;sp=fba;objid=9877857;col=carpenter_tom;sz=300x600,300x250,1x1;" border="0" alt=""></a></noscript>
+</div><!-- end InContent -->
+<!-- objId =5456218--><!-- itemId =9878121--><!-- itemId =9872091--><!-- itemId =9862883--><!-- EDITORS' PICKS --><div class="mod-container mod-no-footer mod-open-list" id="mod_storyedpicks_show"><div class="mod-header"><h4>EDITORS' PICKS</h4></div><div class="mod-content"><ul><li class=" first"><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2" name="Youth Movement"><img src="http://a.espncdn.com/photo/2013/1025/fan_split2x_110x62.jpg" width="110" height="62" /></a><dl><dt><strong><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_mockdraft2/fantasy-basketball-2013-14-mock-draft-2" name="&amp;lpos=storyedpicks&amp;lid=Youth Movement">Youth Movement</a></strong></dt><dd>Which players went where in our second mock hoops draft of the season?</dd></dl></li><li class=" alt"><a href="http://insider.espn.go.com/fantasy/basketball/story/_/id/9869945/spencer-hawes-gordon-hayward-eric-bledsoe-potential-fantasy-stars-tanking-teams" name="Basement Bargains"><img src="http://a.espncdn.com/photo/2013/1011/bos_a_celtssix_cr_110x62.jpg" width="110" height="62" /></a><dl><dt><strong><a href="http://insider.espn.go.com/fantasy/basketball/story/_/id/9869945/spencer-hawes-gordon-hayward-eric-bledsoe-potential-fantasy-stars-tanking-teams" name="&amp;lpos=storyedpicks&amp;lid=Basement Bargains">Basement Bargains</a></strong></dt><dd>There's lots of fantasy value on tanking teams.<img width="11" height="11" border="0" alt="Insider" src="http://assets.espn.go.com/icons/in.gif" style="float:none!important; padding: 0 0 0 2px!important;"></dd></dl></li><li class=""><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_lovehate/al-jefferson-jeff-green-pau-gasol-loves-dwyane-wade-dwight-howard-hates" name="Differences Of Opin"><img src="http://a.espncdn.com/photo/2013/1022/fan_gasol_howard_110x62.jpg" width="110" height="62" /></a><dl><dt><strong><a href="http://espn.go.com/fantasy/basketball/story/_/page/nbadk2k14_lovehate/al-jefferson-jeff-green-pau-gasol-loves-dwyane-wade-dwight-howard-hates" name="&amp;lpos=storyedpicks&amp;lid=Differences Of Opin">Differences Of Opinion</a></strong></dt><dd>Which players does Brian McKitish love and hate this season?</dd></dl></li></ul><p class="footer"><a href="http://games.espn.go.com/frontpage/basketball">Fantasy Basketball Home »</a></p></div></div><!-- END EDITORS' PICKS --><!-- sportIndex: espn --><!-- root: espn --><!-- begin splinks -->
+<div id="sponsored" class="mod-container mod-no-footer">
+<!-- CONTENT: 09story304, SPORT: fba--><div style="margin:0px 0px 5px 0px; text-align: center; width: 304px;"><ins id="splinks-16204"></ins>
+        <script type="text/javascript">
+            (function($) {
+                // config params
+                var width = '304',
+                    height = '320',
+                    client = 'ca-espn-q-story',
+                    channel = 'espn right',
+                    lang = 'null';
+
+                // builds iframe HTML
+                function buildIframe(width, height, client, channel) {
+                    var path = 'http://sports-ak.espn.go.com/espn/sponsoredlinks/adsense/iframeCached';
+                    // pass params as the hash as they are only needed on the client
+                    var hash = '16204|' + width + '|' + height + '|' + client + '|' + channel + '|' + lang;
+                    var iframe = '<iframe seamless scrolling="no" frameborder="0" height="' + height + '" width="' + width + '" src="' + path + '#' + hash + '"></iframe>';
+                    return iframe;
+                }
+
+                // handles messages from child iframe
+                function handleMessage(event) {
+                    if (event.origin === 'http://sports-ak.espn.go.com') {
+                        $('#splinks-' + event.data).html('<!-- no ads served -->');
+                    }
+                }
+
+                if (typeof window.addEventListener === 'function') {
+                    window.addEventListener('message', handleMessage, false);
+                } else {
+                    window.attachEvent('onmessage', handleMessage);
+                }
+
+                // insert the iframe
+                if (espn.geo) {
+                    espn.geo.getLocation().done(function(loc) {
+                        if (loc.country.isoCode !== 'usa' || espn.core.mobileApple || espn.core.android) {
+                            // outside US or not on desktop
+                            client = 'ca-espn-nq';
+                        }
+                        $('#splinks-16204').html(buildIframe(width, height, client, channel));
+                    }).fail(function() {
+                        $('#splinks-16204').html(buildIframe(width, height, 'ca-espn-nq', channel));
+                    });
+                } else {
+                    // can't locate them, assume they are outside US
+                    $('#splinks-16204').html(buildIframe(width, height, 'ca-espn-nq', channel));
+                }
+            })(jQuery);
+        </script>
+    </div></div>
+<!-- end splinks -->
+<!-- begin PromoBox_Marketing -->
+<div class="ad-box" id="mod_promo_box">
+<!--espn.us.com.fba sitezone-->
+<script>if("undefined"!=typeof ad_kvps&&"undefined"!=typeof ad_u&&"undefined"!=typeof ad_counter&&"undefined"!=typeof ad_ord){if("undefined"==typeof ad_site||"undefined"==typeof ad_zone)var ad_site="espn.us.com.fba",ad_zone="story";var ad_finalString="http://ad.Doubleclick.net/adj/"+ad_site+"/"+ad_zone+";"+ad_kvps+"pos=PromoBox_Marketing;"+ad_u+"sz=300x100,1x1;tile="+ad_counter+";ord="+ad_ord;document.write('<div data-cb-ad-id="PromoBox_Marketing" data-cb-dfp-id="'+ad_kvps+'sz=300x100,1x1"><script src='+ad_finalString+'>\x3c/script></div>');ad_counter++};</script>
+<noscript><a href="http://ad.Doubleclick.net/jump/espn.us.com.fba/story;pgn=nbadk2k14_mockdraft2;pgtyp=story;sp=fba;objid=9877857;col=carpenter_tom;sz=300x100,1x1;" target="_blank"><img src="http://ad.Doubleclick.net/ad/espn.us.com.fba/story;pgn=nbadk2k14_mockdraft2;pgtyp=story;sp=fba;objid=9877857;col=carpenter_tom;sz=300x100,1x1;" border="0" alt=""></a></noscript>
+</div>
+<!-- end PromoBox_Marketing -->
+</div>
+<!--end column 2 -->
+<!-- begin bottom nav -->
+<!-- begin bottom nav/sitemap -->
+<div class="mod-container mod-jump-menu span-6">
+<div class="mod-content">
+<!-- NOVALIDATE -->
+<ul>
+<li>
+<ul>
+<li><h4><a href="http://espn.go.com/sports/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_scores">SPORTS</a></h4></li>
+<li><a href="http://espn.go.com/nfl/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_scores_nfl">NFL</a></li>
+<li><a href="http://espn.go.com/mlb/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_scores_mlb">MLB</a></li>
+<li><a href="http://espn.go.com/nba/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_scores_nba">NBA</a></li>
+<li><a href="http://espn.go.com/nhl/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_scores_nhl">NHL</a></li>
+<li><a href="http://espn.go.com/college-football/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_scores_ncf">College Football</a></li>
+<li><a href="http://espn.go.com/mens-college-basketball/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_scores_ncb">College Basketball</a></li>
+<li><a href="http://soccernet.espn.go.com/index" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_scores_soccer">Soccer</a></li>
+<li><a href="http://espn.go.com/racing/nascar/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_scores_nascar">NASCAR</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><h4><a href="http://espn.go.com/sports/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sports">MORE</a></h4></li>
+<li><a href="http://espn.go.com/racing/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sports_racing">Racing</a></li>
+<li><a href="http://espn.go.com/golf/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sports_golf">Golf</a></li>
+<li><a href="http://espn.go.com/tennis/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sports_tennis">Tennis</a></li>
+<li><a href="http://espn.go.com/boxing/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sports_boxing">Boxing</a></li>
+<li><a href="http://espn.go.com/mma/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sports_mma">MMA</a></li>
+<li><a href="http://espn.go.com/college-football/recruiting/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sports_recruiting">Recruiting</a></li>
+<li><a href="http://espn.go.com/olympics/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sports_oly">Olympic Sports</a></li>
+<li><a href="http://espn.go.com/horse-racing/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sports_horse">Horse Racing</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><h4><a href="http://games.espn.go.com/frontpage" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_fantasy">FANTASY</a></h4></li>
+<li><a href="http://games.espn.go.com/frontpage/football" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_fantasy_football">Football</a></li>
+<li><a href="http://games.espn.go.com/frontpage/baseball" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_fantasy_baseball">Baseball</a></li>
+<li><a href="http://streak.espn.go.com" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_fantasy_streak">Streak for the Cash</a></li>
+</ul>
+<ul>
+<li><h4><a href="http://espn.go.com/sportsnation/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sportsnation">SPORTSNATION</a></h4></li>
+<li><a href="http://espn.go.com/sportsnation/polls" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sportsnation_polls">Polls</a></li>
+<li><a href="http://espn.go.com/sportsnation/chats" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sportsnation_chats">Chats</a></li>
+<li><a href="http://sportsnation.espn.go.com" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sportsnation_profiles">Profiles</a></li>
+<li><a href="http://sportsnation.espn.go.com/groups" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sportsnation_groups">Groups</a></li>
+
+</ul>
+</li>
+<li>
+<ul>
+<li><h4><a href="http://espn.go.com/video/">VIDEO</a></h4></li>
+<li><a href="http://espn.go.com/video/category?id=2378529" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_video_mostrecent">Most Recent</a></li>
+<li><a href="http://search.espn.go.com/highlights/video/6" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_video_highlights">Highlights</a></li>
+</ul>
+<ul>
+<li><h4>MORE</h4></li>
+<li><a href="http://espn.go.com/blog/playbook/sounds/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_music">Music</a></li>
+<li><a href="http://travel.espn.go.com/travel/passport/index" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_thelife_passport">Sports Passport</a></li>
+<li><a href="http://espn.go.com/travel/sports/calendar/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_thelife_calendar">Sports Calendar</a></li>
+<li><a href="http://espn.go.com/free-online-games/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_thelife_arcade">Arcade</a></li>
+<li><a href="http://sports.espn.go.com/espn/contests/index" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_thelife_contests">Contests</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><h4>TOOLS</h4></li>
+<li><a href="http://sports.espn.go.com/espn/news/story?page=contact/index"  name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_tools_contactus">Contact Us</a></li>
+<li><a tref="/members/v3_1/index" href="" class="cbOverlay" data-options='{"language":"en","width":"825","height":"425"}'>Member Services</a></li>
+<li><a href="http://espn.go.com/personalization/"  name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_tools_myespn">myESPN</a></li>
+<li><a href="http://proxy.espn.go.com/mobile/alerts/alertmanager"  name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_tools_myespn">ESPN Alerts</a></li>
+<li><a href="http://developer.espn.com/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_tools_developer">Developer Center</a></li>
+<li><a href="http://espn.go.com/espn/corrections" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_tools_corrections">Corrections</a></li>
+<li><a href="http://sports.espn.go.com/nfl/lines" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_tools_dailyline">Daily Line</a></li>
+<li><a href="http://sports.espn.go.com/espn/news/story?page=rssinfo" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_tools_rss">RSS</a></li>
+</ul>
+</li>
+<li class="last">
+<ul>
+<li><h4><a href="http://sports.espn.go.com/espntv/espnGuide" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_tv">TV LISTINGS</a></h4></li>
+<li><h4><a href="http://www.espn3.com" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_3">WatchESPN</a></h4></li>
+<li><h4><a href="http://espnradio.espn.go.com/espnradio/index" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_radio">RADIO</a></h4></li>
+<!--<li><h4><a href="http://espnradio.espn.go.com/espnradio/podcast/index" name="&amp;lpos=bottomnav2&amp;lid=podcenter">PODCENTER</a></h4></li>-->
+
+<li><h4><a href="http://insider.espn.go.com/insider/espn-the-magazine/" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_mag">ESPN THE MAGAZINE</a></h4></li>
+<li><h4><a href="http://log.go.com/log?srvc=sz&amp;guid=20547CF2-0B36-404D-81D3-E5339A6CEFBE&amp;drop=0&amp;addata=3374:65:478847:65&amp;a=1&amp;goto=http://espn.teamfanshop.com" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_shop">SHOP</a></h4></li>
+<li><h4><a href="http://www.sportscenter.com" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_sportscenter">SPORTSCENTER</a></h4></li>
+<li><h4><a href="http://www.teamespn.com" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_teamespn">TEAM ESPN</a></h4></li>
+<li><h4><a href="http://www.espnfrontrow.com" name="&amp;lpos=bottomnav2&amp;lid=bottomnav2_espnfrontrow">ESPN FRONT ROW</a></h4></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<!-- end bottom nav/sitemap -->
+<!-- end bottom nav -->
+</div>
+<div id="nav-wrapper" class="container">
+<div id="nav-wrapper-container">
+<div id="nav-main">
+<!-- begin site nav -->
+<ul class="top">
+<!-- begin site nav -->
+<p><!-- begin site nav --></p>
+<ul class="top" id="nav-main-list"><!-- start: Menuitem :: MyTAB -->
+<li class="last myespn" id="menu-myespn"><a class="myespn" ref="#">MyESPN</a></li>
+<!-- start: Menuitem :: NFL -->
+<li class="sport-menu default t-nfl" data-sportid="28" id="menu-nfl"><a href="http://sports-ak.espn.go.com/nfl/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_nfl">NFL</a></li>
+<!-- start: Menuitem :: MLB -->
+<li class="sport-menu default t-mlb" data-sportid="10" id="menu-mlb"><a href="http://sports-ak.espn.go.com/mlb/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_mlb">MLB</a></li>
+<!-- start: Menuitem :: NBA -->
+<li class="sport-menu default t-nba" data-sportid="46" id="menu-nba"><a href="http://sports-ak.espn.go.com/nba/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_nba">NBA</a></li>
+<!-- start: Menuitem :: NHL -->
+<li class="sport-menu default t-nhl" data-sportid="90" id="menu-nhl"><a href="http://espn.go.com/nhl/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_nhl">NHL</a></li>
+<!-- start: Menuitem :: NCAA FB -->
+<li class="sport-menu default t-ncf" data-sportid="23" id="menu-ncf"><a href="http://sports-ak.espn.go.com/college-football/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_ncf">NCAAF</a></li>
+<!-- start: Menuitem :: NCAA BB -->
+<li class="sport-menu default t-ncb" data-sportid="41" id="menu-ncb"><a href="http://espn.go.com/mens-college-basketball/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_ncb">NCAAM</a></li>
+<!-- start: Menuitem :: NASCAR -->
+<li class="sport-menu default t-nascar" data-sportid="2020" id="menu-nascar"><a href="http://espn.go.com/racing/nascar/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_nascar">NASCAR</a></li>
+<!-- start: Menuitem :: SOCCER -->
+<li class="sport-menu default t-soccer" data-sportid="600" id="menu-soccer"><a href="http://espnfc.com/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_soccer">SOCCER</a></li>
+<!-- start: Menuitem :: GOLF -->
+<li class="sport-menu t-golf" data-sportid="1106" id="menu-golf" style="display: none;"><a href="http://espn.go.com/golf/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_golfl">GOLF</a></li>
+<!-- start: Menuitem :: TENNIS -->
+<li class="sport-menu t-tennis" data-sportid="850" id="menu-tennis" style="display: none;"><a href="http://espn.go.com/tennis/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_tennis">TENNIS</a></li>
+<!-- start: Menuitem :: BOXING-->
+<li class="sport-menu t-boxing" data-sportid="1000" id="menu-boxing" style="display: none;"><a href="http://espn.go.com/boxing/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_boxing">BOXING</a></li>
+<!-- start: Menuitem :: MMA -->
+<li class="sport-menu t-mma" data-sportid="3301" id="menu-mma" style="display: none;"><a href="http://espn.go.com/mma/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_mma">MMA</a></li>
+<!-- start: Menuitem :: ALL SPORTS -->
+<li class="nav-allsports t-allsports" id="menu-allsports"><a href="http://espn.go.com/sports/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_allsports">MORE SPORTS</a></li>
+<!-- start: Menuitem :: INSIDER -->
+<li class="sport-menu t-insider" id="menu-insider" style="display: none;"><a href="http://insider.espn.go.com/insider/index" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_insider">INSIDER</a></li>
+<!-- start: Menuitem :: SPORTSNATION -->
+<li class="sport-menu t-sportsnation" id="menu-sportsnation" style="display: none;"><a href="http://espn.go.com/sportsnation/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_sportsnation">SN</a></li>
+<!-- start: Menuitem :: RADIO & MORE -->
+<li class="right-menu two-line last t-radio" id="menu-radio"><a href="http://espn.go.com/espnradio/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_radioandmore">RADIO<span>&amp; MORE</span></a></li>
+<!-- start: Menuitem :: espnW & PLAYBOOK -->
+<li class="right-menu two-line t-page2" id="menu-page2"><a href="http://espn.go.com/espnw/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_espnwandxgames" target="_blank">espnW<span>&amp; X GAMES</span></a></li>
+<!-- start: Menuitem :: FANTASY & GAMES -->
+<li class="right-menu two-line t-fantasy selected" id="menu-fantasy"><a href="http://games.espn.go.com/frontpage" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_fantasy">FANTASY<span>&amp; GAMES</span></a></li>
+<!-- start: Menuitem :: WATCH -->
+<li class="right-menu t-watch" id="menu-watch"><a href="http://espn.go.com/video/" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_watch">WATCH</a></li>
+</ul>
+<!-- end site nav -->
+<!-- end site nav -->
+</ul>
+<!-- end site nav -->
+</div>
+<div class="nav-main-secondary">
+<!--/fantasy/basketball/story--><ul>
+<li class="subnav-frontpage active"><a href="http://games.espn.go.com/frontpage/sports?sport=basketball">Fantasy Basketball</a></li><li><a href="http://games.espn.go.com/fba/welcome">Create or Join a League</a></li><li><a href="http://games.espn.go.com/fba/livedraftlobby">Draft Lobbies</a></li><li><a href="http://games.espn.go.com/fba/mockdraftlobby">Mock Draft Lobby</a></li><li><a href="http://games.espn.go.com/fba/resources/playernews">Player News</a></li><li><a href="http://games.espn.go.com/fba/livedraftresults">Live Draft Results</a></li><!--<li><a href="http://games.espn.go.com/fba/playerrater?">Player Rater</a></li><li><a href="http://games.espn.go.com/fba/leaders?">Daily Leaders</a></li>--><!--<li><a href="http://g.espncdn.com/s/fba/editorial/2013HoopsWeeklySchedule.PDF?addata=2013=fba_weekly_xxx">Weekly Schedule Grid</a></li>--><!--<li><a href="http://games.espn.go.com/fba/addeddropped">Added/Dropped</a></li>--><!--<li><a href="http://www.nba.com/video/nbatv/fantasy/?from_espn=yes" target="_new">NBA Video</a></li>--><li><a href="http://games.espn.go.com/fba/tools/projections?display=alt&">2013 Projections</a></li><li><a href="http://games.espn.go.com/fba/content?page=fbarulesfaq2014">FAQ</a></li><li class="expandable"><a href="javascript:void(0);"><span>More</span></a><div>  <dl style="border:none;"><dd><a href="http://itunes.apple.com/us/app/espn-fantasy-basketball-2012/id396764924?mt=8">FBA App on iTunes</a></dd><!--<dd><a href="http://games.espn.go.com/fba/resources/leaderboard?">Leaderboards</a></dd><dd><a href="http://games.espn.go.com/fba/livedraftresults">Live Draft Results</a></dd>--><dd><a href="http://games.espn.go.com/fba/tools/undroppables">Undroppables</a></dd><!--<dd><a href="http://games.espn.go.com/frontpage/fbadraftkit">Draft Kit</a></dd>--><!--<dd><a href="http://games.espn.go.com/fba/mockdraftlobby">Mock Draft Lobby</a></dd>--><dd><a href="http://games.espn.go.com/fba/content?page=fbarulesindex2014">Rules</a></dd>  <dd><a href="http://games.espn.go.com/frontpage/forums#!/category/1313609223-475-531">Forums</a></dd></dl>  </div> </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- end content -->
+</div>
+<!-- end subheader -->
+
+<script>
+espn.core.init.nav();
+espn.insider.checkUserForPromo();
+espn.insider.insiderRedirect();
+</script>
+<!-- begin footer -->
+<div id="footer" class="container">
+<script type="text/javascript">
+//<![CDATA[
+var link = window.location;
+var bugText = '<a href="#" onclick="window.open(\'http://dynamic.espn.go.com/espn/bugs?url=' + escape(link) + '\', \'Bugs\',\'noresizable,noscrollbars,height=400,width=400\');">Report a Bug</a> | ';
+//]]>
+</script>
+<span style="font-weight:bold;">ESPN.com:</span> <a href="http://sports.espn.go.com/espn/news/story?page=help/index">Help</a> | <a href="http://espnmediazone.com/us/" rel="nofollow">Press</a> | <a href="http://www.espncms.com/Advertise-on-ESPN.aspx" rel="nofollow">Advertise on ESPN.com</a> | <a href="http://www.espncms.com" rel="nofollow">Sales Media Kit</a> | <a href="http://preferences.truste.com/2.0/?type=espn&affiliateId=148" onclick="window.open('http://preferences.truste.com/2.0/?type=espn&affiliateId=148','popup','width=986,height=878,scrollbars=yes,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Interest-Based Ads</a> | <script type="text/javascript">document.write(bugText);</script><a href="http://espn.go.com/espn/corrections">Corrections</a> | <a href="http://sports.espn.go.com/espn/news/story?page=contact/index">Contact Us</a> | <a href="http://espn.go.com/espn/sitemap">Site Map</a> | <a href="http://espncareers.com">Jobs at ESPN</a> | <!--a href="http://corporate.disney.go.com/corporate/sourcing.html" rel="nofollow"><span style="font-weight:bold;">Supplier Information</span></a--><a href="http://go.com">Go.com</a><br/>&copy; 2013 ESPN Internet Ventures. <a href="http://disneytermsofuse.com/" rel="nofollow">Terms of Use</a> and <a href="http://disneyprivacycenter.com/" rel="nofollow">Privacy Policy and Safety Information/Your California Privacy Rights</a> are applicable to you.  All rights reserved.
+
+<!--
+<a href="http://www.espnshop.com/" onClick="location.href('http://log.go.com/log?srvc=sz&guid=73B641A0-6660-4EFC-B8FF-9DE23E8CD9BD&drop=0&addata=3374:65:478847:65&a=1&goto=http://www.espnshop.com/');return false">Shop</a>
+--></div>
+<!-- end footer -->
+<!--[if lte IE 8]></div><![endif]-->
+</div>
+<!-- end bg-elements -->
+
+
+<!-- SiteCatalyst code version: H.21.3 Copyright 1997-2010 Omniture, Inc. http://www.omniture.com -->
+<script type="text/javascript">
+	var undef = 'undefined'
+	,s_account="wdgespcom"
+	,omniPageName = "espn:sports:fantasy:basketball:story:storyid=9877857-carpenters+mock+draft+2+(131025)"	
+	
+	,insiderStatus = ""
+	,anGen = ""
+	,anYear = ""
+	,anDateString = ""
+	,anLoginStatus = ""
+	,callOmniture = function(){
+		/*-- core story s_omni properties --*/
+		if (typeof anCV != "undefined"){anParseLoginBarInfo(anCV);}
+		s_omni.pageName="sports:fantasy:basketball:story:storyid=9877857-carpenters+mock+draft+2+(131025)";
+		s_omni.server = window.location.host; // Server from the Host
+		s_omni.channel = "sports";
+		s_omni.prop1 = "espn";
+		s_omni.prop4 = "story";
+		s_omni.prop5 = "sports:fantasy";
+		s_omni.prop11 = (insiderStatus !== null) ? insiderStatus + ":premium-no" : "premium-no";
+		s_omni.prop13 = "espn.com";
+		s_omni.prop15 = "storyid=9877857-null-13-14+fantasy+hoops+mock+draft+2";
+		s_omni.prop17 = "en";
+		s_omni.prop21 = anDateString;
+		s_omni.prop22 = anGen;
+		s_omni.prop23 = "carpenter_tom";
+		s_omni.prop25 = "basketball";
+		s_omni.prop29 = anLoginStatus;
+		s_omni.prop30 = "false";
+		s_omni.hier1 = "sports:fantasy:basketball:story:storyid=9877857-carpenters+mock+draft+2+(131025)";
+		s_omni.eVar7 = anYear + ":" + anGen + ":" + anLoginStatus + ":" + s_omni.prop11 + ":";
+		s_omni.eVar9 = "en";
+		s_omni.eVar10 = "carpenter_tom";
+		s_omni.eVar13 = "sports:fantasy:basketball:story:storyid=9877857-carpenters+mock+draft+2+(131025)";
+		s_omni.eVar15 = "storyid=9877857-null-13-14+fantasy+hoops+mock+draft+2";
+		s_omni.eVar19 = "basketball";
+		
+		if (s_omni.prop11=="anonymous:premium-yes" || s_omni.prop11=="insider-no:premium-yes" && typeof s_omni.prop4!="undefined" &&
+			(s_omni.prop4=="story" || s_omni.prop4=="blog")) {
+			if (typeof s_omni.events != "undefined" && s_omni.events!="") {
+				s_omni.events = s_omni.events+",event8" }
+			else { s_omni.events="event8" }
+		}
+		anDebugCase = "ver_15Feb11_0_";
+		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+		
+		var s_code = s_omni.t();
+		if(s_code) {
+			var sci = new Image(1,1);
+			sci.onload = function() {console.log("loaded no append")};
+			sci.src = s_code;
+		}
+		
+	};
+	
+
+
+	if (typeof(s_omni) === 'undefined') {
+		jQuery(function($) {
+			// we want to load the analytics files from the cache if possible - so, let's use full $.ajax() calls
+			$.ajax({
+				type:'GET',
+				url: 'http://a.espncdn.com/combiner/c?js=analytics/sOmni.js,analytics/analytics.js,analytics/externalnielsen.js',
+				dataType: 'script',
+				cache: true,
+				success: function() {
+					var lgSrc;
+					if(typeof anCV !== undef && anCV === '' && document.getElementById('form-memberarea') != null) {
+						lgSrc = 'https://r.espn.go.com/members/util/getUserInfo?cb=runOmnitureIndependently';
+						$.getScript(lgSrc); // we don't want this to be cached - so we'll use the $.getScript() method
+					} else {
+						callOmniture();
+					}
+				}
+			});
+		});
+	}
+
+
+</script>
+<!-- End SiteCatalyst code version: H.21. -->
+		<script>
+		var _sf_async_config={
+			"uid":22222,
+			"domain":"espn.go.com",
+			"pingServer":"pespn.chartbeat.net",
+			"useCanonical":true,
+			"useSubDomains":false,
+			"sections":"fba",
+			"authors":"stories, story"
+		};
+		if (typeof(ad_site) !== 'undefined') { _sf_async_config.zone = ad_site; }
+
+		// load both chartbeat_pub and chartbeat_video
+		(function () {
+			function a() {
+				window._sf_endpt = (new Date()).getTime();
+
+				var cbDomain = (("https:"==document.location.protocol)?"https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/":"http://static.chartbeat.com/");
+
+				var c = document.createElement("script");
+				c.setAttribute("language","javascript");
+				c.setAttribute("type","text/javascript");
+				c.setAttribute("src", cbDomain+"js/chartbeat_pub.js");
+				document.body.appendChild(c);
+
+				if(typeof StrategyInterface !== 'undefined' && (typeof espn !== 'undefined' && typeof espn.video !== 'undefined')){
+					var e = document.createElement("script");
+					e.setAttribute("language",	"javascript");
+					e.setAttribute("type", "text/javascript");
+					e.setAttribute("src", cbDomain+"js/chartbeat_video.js");
+					document.body.appendChild(e);
+				}
+			}
+			var b = window.onload;
+			window.onload = (typeof window.onload != "function") ? a : function () { b(); a() }
+		})();
+		//(function(){function a(){window._sf_endpt=(new Date()).getTime();var c=document.createElement("script");c.setAttribute("language","javascript");c.setAttribute("type","text/javascript");c.setAttribute("src",(("https:"==document.location.protocol)?"https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/":"http://static.chartbeat.com/")+"js/chartbeat_pub.js");document.body.appendChild(c)}var b=window.onload;window.onload=(typeof window.onload!="function")?a:function(){b();a()}})();
+		</script>
+	
+<!-- dynamic logic: safecount -->
+<script src="http://content.dl-rms.com/rms/mother/508/nodetag.js"></script>
+
+<script type="text/javascript" charset="UTF-8">(function(){function c(n){var k=document.cookie,s,e,l="length";if(k[l]>0){s=k.indexOf(n+"=");if(s!=-1){ s=s+n[l]+1;e=k.indexOf(";",s);if(e==-1)e=k[l];return unescape(k.substring(s,e));}}return"";}var a=c("releaseCandidate")=="true";this.ESPN_GLOBALS={pageType:"story",videoPlayers:{story09:{height:324,width:576,autostart:"true",playerType:!!a?"newskin_index09_dev":"story09"}}}})();</script>
+<script type="text/javascript" charset="utf-8">buildOutHeadlinesForPinnedSite();</script>
+<script type="text/javascript">
+   var isInIFrame = (window.location != window.parent.location) ? true : false;
+   if(isInIFrame){ if(document.referrer){ if(document.referrer.indexOf(".go.com")==-1){ top.location.href=self.location.href; } } }
+</script>
+
+<script type='text/javascript'>
+  //<![CDATA[
+    (function(){
+    window.gravityInsightsParams = {
+      'type': 'content',
+      'action': '',
+      'site_guid': '9a41401e9b7c945344e001ee7f23031e'
+    };
+    var b,c;b="https:"===document.location.protocol?"https://b-ssl.grvcdn.com/moth-min.js":"http://b.grvcdn.com/moth-min.js";window.grvMakeScript=function(d){var a;a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=d;return a};c=document.getElementsByTagName("script")[0];b&&c.parentNode.insertBefore(window.grvMakeScript(b),c);})();
+  //]]>
+</script></body>
+</html>
