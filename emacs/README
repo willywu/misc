@@ -1,0 +1,3 @@
+Download with
+
+wget -O ~/.emacs https://raw.github.com/willywu/misc/master/emacs/dot_emacs
