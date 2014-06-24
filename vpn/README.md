@@ -15,6 +15,8 @@ How to setup an AWS machine that runs OpenVPN.  Generally started from http://ho
 1. Download Tunnelblick
 2. Copy the openvpn-key.txt from the server into client's openvpn/config directory
 3. Update AmazonEC2.ovpn, copy both into Tunnelblick's private configs folder
+4. On the Tunnelblick VPN configuration, set "DNS/WINS" to be "Set nameserver (3.0b10)
+5. Update your client's DNS settings to use Google DNS
 
 #Setup the AWS machine - Part II
 1. Create/append to /etc/sysconfig/iptables
