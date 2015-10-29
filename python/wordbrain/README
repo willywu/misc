@@ -1,0 +1,2 @@
+Make a words.txt file via `cat /usr/share/dict/words > words.txt`.
+Then just run the script to generate the potential words.
