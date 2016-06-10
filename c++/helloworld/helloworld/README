@@ -1,0 +1,1 @@
+Make a words.txt file via `cat /usr/share/dict/words > words.txt`.
