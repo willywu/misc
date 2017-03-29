@@ -1,0 +1,50 @@
+Going through https://doc.rust-lang.org/book/README.html
+
+== 2. Getting Started ==
+
+Compile with rustc
+$ rustc main.rs
+
+Package with cargo
+$ cargo build
+Make sure your directory has Cargo.toml.
+This creates Cargo.lock, which tracks dependencies.
+
+Execute the package
+$ ./target/debug/hello_world
+
+Do both build & execute
+$ cargo run
+
+Shorthand the setup of a new project
+$ cargo new hello_world --bin
+
+== 3. Tutorial: Guessing Game ==
+
+Variables are immutable by default
+
+String::new() // static method "new()"
+
+io::stdin().read_line(&mut guess) // read_line takes a "&mut String"
+
+.expect("Failed to read line"); // need to handle the "Result", or else you get a compiler warning
+
+Add deps to the [dependencies] of the toml file, "cargo build"
+
+Then you can "extern crate rand;" and then "use rand::Rng" to put Rng into scope
+
+It's interesting that "Rng" doesn't appear in the source code, has to do with traits/scopes?
+
+You can declare enums:
+"""
+enum Foo {
+    Bar,
+    Baz,
+}
+"""
+
+Type annotation:
+"let guess: u32 = ..."
+
+Handle exceptions by switching from except(...) -> a match statement.
+In this case, we'll match on Result
