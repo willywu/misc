@@ -45,6 +45,142 @@ enum Foo {
 
 Type annotation:
 "let guess: u32 = ..."
+"Let guess be a binding of type u32 whose value is ..."
 
 Handle exceptions by switching from except(...) -> a match statement.
 In this case, we'll match on Result
+
+== 4. Syntax and Semantics ==
+
+= 4.1 Variable Bindings =
+
+The left-hand side of a let statement is a ‘pattern’, not a variable name
+
+= 4.2 Functions =
+
+Note this function:
+"""
+fn add_one(x: i32) -> i32 {
+    x + 1
+}
+"""
+Type of the arg is declared after the arg name
+Return value is declared after the arrow
+The last line is the returned value, no semicolon on this line
+You could also use "return" keyword, i.e. "return x + 1;"
+
+Expressions return a value, i.e.
+x + 1
+
+"Declaration statements" don't return a value
+let x = 5;
+
+"Expression statements" also don't return a value
+Adding a semicolon to an expression turns it into an "expression statement"
+x + 1;
+
+= 4.3 Primitive Types =
+
+char is denoted with single quote, takes up 4 bytes (not a single byte)
+
+Numeric types can be:
+- signed (i8, i16, i32, i64) vs unsigned (u8, u16, u32, u64)
+- variable size (isize, usize)
+- floating point (f32, f64)
+
+Arrays:
+- their type is [T; N] where T is the data type and N is the compile time constant size
+
+= 4.5 if =
+
+Don't use parentheses:
+
+"""
+if x == 5 {
+    println!("x is five!");
+} else if x == 6 {
+    println!("x is six!");
+} else {
+    println!("x is not five or six :(");
+}
+"""
+
+Ternary operator:
+
+let y = if x == 5 { 10 } else { 15 };
+
+= 4.6 Loops =
+
+"""
+for var in expression {
+    code
+}
+"""
+
+Where "expression" is something that can be turned into an iterator, i.e. "0..10"
+
+Enumerate similar to python:
+"""
+for (index, value) in (5..10).enumerate() {
+    println!("index = {} and value = {}", index, value);
+}
+"""
+
+= 4.7 Vectors =
+
+Vectors are dynamic sized arrays, always allocating their data on the heap:
+"""
+let v = vec![1, 2, 3, 4, 5]; // v: Vec<i32>
+"""
+
+You can only index into vectors with a usize:
+"""
+let i: usize = 0;
+let j: i32 = 0;
+
+// Works:
+v[i];
+
+// Doesn’t:
+v[j];
+"""
+
+= 4.12 Structs =
+
+"""
+struct Point {
+    x: i32,
+    y: i32,
+}
+
+fn main() {
+    let origin = Point { x: 0, y: 0 }; // origin: Point
+
+    println!("The origin is at ({}, {})", origin.x, origin.y);
+}
+"""
+
+= 4.17 Strings =
+
+"Hello there." is a string literal and its type is &'static str
+"""
+let greeting = "Hello there.";
+"""
+
+"String" is a heap-allocated string, made from a string slice with to_string
+"""
+let mut s = "Hello".to_string(); // mut s: String
+println!("{}", s);
+
+s.push_str(", world.");
+println!("{}", s);
+"""
+
+Concatenation:
+- if you have two Strings, you need an &:
+"""
+let hello = "Hello ".to_string();
+let world = "world!".to_string();
+
+let hello_world = hello + &world;
+"""
